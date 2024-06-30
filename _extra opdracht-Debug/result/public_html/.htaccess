@@ -1,0 +1,6 @@
+# zet de engine aan
+RewriteEngine On
+
+# zeg wat er moet gebeuren
+RewriteRule ^$ nieuws.php [L]
+RewriteRule !(\.) nieuwsbericht.php [L]

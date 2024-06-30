@@ -1,0 +1,114 @@
+/* CSS Document */
+body {
+	background: 		#f6f6f6;
+	padding: 			0;
+	margin:				0; /* remove margins */
+	border:				0; /* remove borders */
+	color:				#333;
+	font: 				0.9em Arial, Verdana, sans-serif;
+}
+
+h1 {
+	margin:				0;
+	padding:			5px 10px;
+	text-align:			center;
+}
+/* */
+
+
+
+/* specific divs */
+#content {	
+	width: 				900px;
+	background: 		#fff;
+	padding: 			0;
+	margin: 			0 auto;
+	border-bottom:		solid 1px #ccc;	
+}
+
+#footer, 
+#header {
+	background:			#eee;
+	text-align:			center;
+	padding:			5px 5px;
+	font-size:			0.8em;
+}
+#content {
+	width: 				900px;
+	border:				solid 1px #000;
+	margin:				25px auto;
+	padding:			15px 10px;
+}
+#messages li {
+	border-top:			solid 1px #333;
+	border-bottom:		solid 1px #333;
+	list-style:			none;
+	margin:				25px 50px 25px 0;
+	padding:			5px;
+}
+#messages li .date {
+	color:				#999;
+	float:				right;
+}
+#messages li h3 {
+	margin:				0;
+	padding:			0;
+}
+#messages li a {
+	margin-left:		680px;
+	font-size:			11px;
+	color:				#333;
+}
+
+
+
+
+
+#login {
+	border:				solid 1px #333;
+	background-color:	#999;
+	width: 				50px;
+	margin:				0;
+	padding:			5px 10px;
+	float:				right;
+	height:				15px;	
+}
+#login a {
+	text-decoration:	none;
+	color:				#fff;	
+}
+#login a:hover {
+	color:				#000;
+}
+
+
+
+ul#menu {
+	list-style:		none;
+	margin:			0 auto;
+	padding:		0;
+	border-top:		solid 1px #333;
+	border-bottom:	solid 1px #333;
+	width:			900px;
+	height:			26px;
+	
+}
+ul#menu li {
+}
+ul#menu li a {
+	margin:				1px 0;
+	padding:			5px 0;
+	float:				left;
+	width:				100px;
+	text-decoration:	none;
+	color:				#fff;
+	background-color:	#999;	
+}
+ul#menu li a.active {
+	color:				#000;
+	background-color:	#aaa;
+}
+ul#menu li a:hover {
+	background-color:	#fff;
+	color:				#222;
+}
