@@ -1,0 +1,171 @@
+# Copyright (C) 2024 Jasper Heidebrink
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: M8PROG Custom theme 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/m8prog-custom\n"
+"POT-Creation-Date: 2024-05-06T09:34:47+00:00\n"
+"PO-Revision-Date: 2024-05-06 11:51+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: m8prog-custom\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "M8PROG Custom theme"
+msgstr "M8PROG Aangepast thema"
+
+#. Theme URI of the theme
+#. Author URI of the theme
+#: style.css
+msgid "https://ma-web.nl"
+msgstr "https://ma-web.nl"
+
+#. Description of the theme
+#: style.css
+msgid "This is a custom WordPress theme"
+msgstr "Dit is een aangepast WordPress-thema"
+
+#. Author of the theme
+#: style.css
+msgid "Jasper Heidebrink"
+msgstr "Jasper Heidebrink"
+
+#: functions.php:26
+msgid "Header Menu"
+msgstr "Hoofd menu"
+
+#: functions.php:27
+msgid "Other Menu"
+msgstr "Ander menu"
+
+#: functions.php:86
+msgid "Footer Widget Area left"
+msgstr "Footer widget gebied links"
+
+#: functions.php:88 functions.php:97 functions.php:106
+msgid "A widget area located in the footer."
+msgstr "Een widget gebied in de Footer."
+
+#: functions.php:95
+msgid "Footer Widget Area center"
+msgstr "Footer widget gebied midden"
+
+#: functions.php:104
+msgid "Footer Widget Area right"
+msgstr "Footer widget gebied rechts"
+
+#: functions.php:113
+msgid "Sidebar Widget Area"
+msgstr "Sidebar widget gebied"
+
+#: functions.php:115
+msgid "A widget area located on the side of some content."
+msgstr "Een widget gebied aan de zijkant van bepaalde inhoud."
+
+#: M8progCustom/PostType.php:4
+msgid "Woods"
+msgstr "Hout"
+
+#: M8progCustom/PostType.php:5
+msgid "Wood"
+msgstr "Hout"
+
+#: M8progCustom/PostType.php:6 M8progCustom/PostType.php:9
+msgid "New Wood"
+msgstr "Nieuw hout"
+
+#: M8progCustom/PostType.php:7
+msgid "Add New Wood"
+msgstr "Voeg nieuw hout toe"
+
+#: M8progCustom/PostType.php:8
+msgid "Edit Wood"
+msgstr "Hout bewerken"
+
+#: M8progCustom/PostType.php:10
+msgid "View Wood"
+msgstr "Bekijk Hout"
+
+#: M8progCustom/PostType.php:11
+msgid "Search Wood"
+msgstr "Hout zoeken"
+
+#: M8progCustom/PostType.php:12
+msgid "No Wood Found"
+msgstr "Geen hout gevonden"
+
+#: M8progCustom/PostType.php:13
+msgid "No Wood found in Trash"
+msgstr "Geen hout gevonden in de prullenbak"
+
+#: M8progCustom/PostType.php:38
+msgctxt "taxonomy general name"
+msgid "Origins"
+msgstr "Oorsprong"
+
+#: M8progCustom/PostType.php:39
+msgctxt "taxonomy singular name"
+msgid "Origin"
+msgstr "Oorsprong"
+
+#: M8progCustom/PostType.php:40
+msgid "Search Origins"
+msgstr "Oorsprong zoeken"
+
+#: M8progCustom/PostType.php:41
+msgid "Popular Origins"
+msgstr "Populaire oorsprong"
+
+#: M8progCustom/PostType.php:42
+msgid "All Origins"
+msgstr "Alle originelen"
+
+#: M8progCustom/PostType.php:43
+msgid "Parent Origin"
+msgstr "Oorsprong van de ouder"
+
+#: M8progCustom/PostType.php:44
+msgid "Parent Origin:"
+msgstr "Oorsprong van de ouders:"
+
+#: M8progCustom/PostType.php:45
+msgid "Edit Origin"
+msgstr "Bewerk origineel"
+
+#: M8progCustom/PostType.php:46
+msgid "Update Origin"
+msgstr "Werk origineel bij"
+
+#: M8progCustom/PostType.php:47
+msgid "Add New Origin"
+msgstr "Nieuwe oorsprong toevoegen"
+
+#: M8progCustom/PostType.php:48
+msgid "New Origin Name"
+msgstr "Nieuwe oorsprong naam"
+
+#: M8progCustom/PostType.php:49
+msgid "Origins"
+msgstr "Oorsprong"
+
+#: single.php:49
+msgid "Next"
+msgstr "Volgende"
+
+#: single.php:52
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: single.php:56
+msgid "Previous"
+msgstr "Vorige"
+
+#: single.php:59
+msgid "Previous post:"
+msgstr "Vorig bericht:"

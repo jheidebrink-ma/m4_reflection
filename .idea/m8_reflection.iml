@@ -6,7 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$/m8prog-wordpress/plugins/better-wp-security/core/lib" isTestSource="false" packagePrefix="iThemesSecurity" />
       <sourceFolder url="file://$MODULE_DIR$/m8prog-wordpress/plugins/better-wp-security/core/modules" isTestSource="false" packagePrefix="iThemesSecurity" />
       <sourceFolder url="file://$MODULE_DIR$/m8prog-wordpress/plugins/wpforms-lite/src" isTestSource="false" packagePrefix="WPForms" />
-      <sourceFolder url="file://$MODULE_DIR$/m8prog-wordpress/wordpress/wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
